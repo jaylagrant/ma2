@@ -1,0 +1,25 @@
+.row{
+    min-height: 50px;
+    background-color: #5c6bc0;
+}
+
+.col{
+    background-color: #aeea00;
+    border: 1px;
+}
+
+#sidenav{
+    background-color: crimson ;
+    height: 100%;
+}
+
+.question_text, .question_textEx{
+    color: navy;
+    font-size: medium;
+    background-color: white;
+    text-align: left;
+}
+
+.answer{
+    color: red;
+}
